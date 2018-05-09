@@ -1,6 +1,6 @@
 # coding_demo_react_redux_client
 
-This is a react redux demo project to represent a nested sets hierarchy.  
+This is a react redux demo project to represent a [nested sets](https://en.wikipedia.org/wiki/Nested_set_model) hierarchy.  
 
 # to run dev
 
@@ -9,9 +9,6 @@ yarn start
 
 
 
-
-
-[info on nested sets](https://en.wikipedia.org/wiki/Nested_set_model)
 
 
 
@@ -2475,3 +2472,12 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+
+
+# attributions
+Thanks to these two coders for some inspiration
+- [clouds](http://cssdeck.com/labs/animated-clouds-background-pure-css3)
+- [bunny](https://codepen.io/katydecorah/pen/uIEFy)
+
+
