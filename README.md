@@ -2,9 +2,18 @@
 
 This is a react redux demo project to represent a [nested sets](https://en.wikipedia.org/wiki/Nested_set_model) hierarchy.  
 
-# to run dev
+# to install
 
+git clone https://github.com/lancer278/coding_demo_react_redux_client
+
+yarn install
+
+
+
+# to run dev
 yarn start
+
+
 <BR>
 <BR>
 
