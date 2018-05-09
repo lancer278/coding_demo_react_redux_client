@@ -1,33 +1,16 @@
-# coding_demo_react_redux_client
+## coding_demo_react_redux_client
 
 This is a react redux demo project to represent a [nested sets](https://en.wikipedia.org/wiki/Nested_set_model) hierarchy.  
 
 # to run dev
 
 yarn start
+<BR>
+<BR>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
